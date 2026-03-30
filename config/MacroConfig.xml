@@ -1,0 +1,14 @@
+<macroRegistry>
+    <macro>
+        <name>Example_DataEntry</name>
+        <description>This macro is used for data entry tasks.</description>
+        <createdBy>ImpliedKaos</createdBy>
+        <createdDate>2026-03-30 01:26:12</createdDate>
+    </macro>
+    <macro>
+        <name>Example_InDev</name>
+        <description>This macro is under development.</description>
+        <createdBy>ImpliedKaos</createdBy>
+        <createdDate>2026-03-30 01:26:12</createdDate>
+    </macro>
+</macroRegistry>
