@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RoleDefinitions>
+    <Role name="StandardUser">
+        <Description>Standard user role with limited access.</Description>
+    </Role>
+    <Role name="SuperUser">
+        <Description>Super user role with macro development access.</Description>
+        <UserMappings>
+            <User>exampleSuperUser1</User>
+            <User>exampleSuperUser2</User>
+            <!-- Add more super user usernames as needed -->
+        </UserMappings>
+    </Role>
+</RoleDefinitions>
